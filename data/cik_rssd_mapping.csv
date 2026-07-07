@@ -1,0 +1,525 @@
+CIK,RSSD_ID,EntityName,Bank_Name,match_type,match_score
+7789,917742,ASSOCIATED BANC-CORP,"Associated Bank, National Association",fuzzy,0.877777777777778
+9631,3548567,BANK OF NOVA SCOTIA,The Bank of San Antonio,fuzzy,0.861197110423117
+18349,395238,SYNOVUS FINANCIAL CORP,Synovus Bank,exact,1
+19617,852218,JPMORGAN CHASE & CO,"JPMorgan Chase Bank, National Association",fuzzy,0.908991228070176
+28412,60143,COMERICA INC,Comerica Bank,exact,1
+34782,991340,1ST SOURCE CORP,1st Source Bank,exact,1
+35527,723112,FIFTH THIRD BANCORP,Fifth Third Bank,exact,1
+36029,591852,FIRST FINANCIAL BANKSHARES INC,"First Financial Bank, National Association",fuzzy,0.923076923076923
+36146,5349218,TRUSTMARK CORP,Trustar Bank,fuzzy,0.925925925925926
+36377,980661,"FIRST HAWAIIAN, INC.",First Hawaiian Bank,exact,1
+36966,485559,FIRST HORIZON CORP,First Horizon Bank,exact,1
+40729,3284070,Ally Financial Inc.,Ally Bank,exact,1
+46195,795968,BANK OF HAWAII CORP,Bank of Hawaii,exact,1
+70858,2867056,BANK OF AMERICA CORP /DE/,"Bank of America Oregon, National Association",fuzzy,0.874545454545455
+73124,210434,NORTHERN TRUST CORP,The Northern Trust Company,exact,1
+90498,663245,SIMMONS FIRST NATIONAL CORP,Simmons First National Bank,exact,1
+92230,852320,TRUIST FINANCIAL CORP,Truist Bank,exact,1
+93451,978154,STERLING BANCORP,Sterling Bank,exact,1
+93751,352745,STATE STREET CORP,State Street Bank and Trust Company,fuzzy,0.857142857142857
+102212,137652,UNIVEST FINANCIAL Corp,University Bank,fuzzy,0.9
+201461,63069,CITY NATIONAL CORP,City National Bank,exact,1
+203596,645625,WESBANCO INC,"Wesbanco Bank, Inc.",fuzzy,0.871794871794872
+275119,280044,BAYLAKE CORP,Baylake Bank,exact,1
+315709,209858,INTERNATIONAL BANCSHARES CORP,International Bank,exact,1
+315849,699534,SOUTHWEST GEORGIA FINANCIAL CORP,Southwest Georgia Bank,exact,1
+318300,359324,PEOPLES BANCORP INC,The Peoples Bank,exact,1
+350852,509811,COMMUNITY TRUST BANCORP INC /KY/,"Community Trust Bank, Inc.",fuzzy,0.875
+351569,764030,Ameris Bancorp,Ameris Bank,exact,1
+353191,350750,NORTH VALLEY BANCORP,North Valley Bank,exact,1
+353386,210238,SOUTHEASTERN BANKING CORP,Southeastern Bank,exact,1
+357264,785062,PACIFIC CAPITAL BANCORP /CA/,"Pacific Capital Bank, National Association",fuzzy,0.876190476190476
+700564,238812,FULTON FINANCIAL CORP,The Felton Bank,fuzzy,0.888888888888889
+700733,802110,NATIONAL PENN BANCSHARES INC,National Penn Bank,exact,1
+700863,682611,SUSQUEHANNA BANCSHARES INC,Susquehanna Bank,exact,1
+701347,701062,CENTRAL PACIFIC FINANCIAL CORP,Central Pacific Bank,exact,1
+701853,606046,BANCORPSOUTH INC,BancorpSouth Bank,exact,1
+702325,1007846,FIRST MIDWEST BANCORP INC,First Midwest Bank,exact,1
+702513,152057,Bank of Commerce Holdings,Bank of Commerce,exact,1
+702902,472018,HARLEYSVILLE NATIONAL CORP,The Salyersville National Bank,fuzzy,0.926587301587302
+703329,217059,FIRST FARMERS & MERCHANTS CORP,First Farmers & Merchants Bank,exact,1
+703699,822042,SOUTHERN MICHIGAN BANCORP INC,Southern Michigan Bank & Trust,fuzzy,0.902777777777778
+705432,361167,SOUTHSIDE BANCSHARES INC,Southside Bank,exact,1
+706465,896427,HENRY COUNTY BANCSHARES INC,The Henry County Bank,exact,1
+706863,667029,UNION BANKSHARES INC,"Union Bank, Inc.",fuzzy,0.875
+706874,862824,PALMETTO BANCSHARES INC,The Palmetto Bank,exact,1
+707604,539939,BRITTON & KOONTZ CAPITAL CORP,"Britton & Koontz Bank, N.A.",fuzzy,0.869047619047619
+707605,928618,AMERISERV FINANCIAL INC /PA/,Ameriserv Financial Bank,fuzzy,0.892857142857143
+707855,773443,PRINCETON NATIONAL BANCORP INC,The Clinton National Bank,fuzzy,0.890277777777778
+707886,638346,UNITED COMMUNITY FINANCIAL CORP,United Community Bank,exact,1
+708955,591852,FIRST FINANCIAL BANCORP /OH/,"First Financial Bank, National Association",fuzzy,0.876190476190476
+709337,307062,FARMERS NATIONAL BANC CORP /OH/,The Farmers National Bank of Buhl,fuzzy,0.867259918427883
+711772,736206,CAMBRIDGE BANCORP,Cambridge Trust Company,exact,1
+712534,17147,FIRST MERCHANTS CORP,First Merchants Bank,exact,1
+712771,3317932,"ConnectOne Bancorp, Inc.",ConnectOne Bank,fuzzy,0.851851851851852
+713095,132219,FARMERS CAPITAL BANK CORP,Farmers National Bank,fuzzy,0.86741452991453
+714310,962854,VALLEY NATIONAL BANCORP,Valley National Bank,exact,1
+714395,37640,"GERMAN AMERICAN BANCORP, INC.",German American Bancorp,fuzzy,0.884057971014493
+714530,617024,NEWBRIDGE BANCORP,NewBridge Bank,exact,1
+714562,188757,FIRST FINANCIAL CORP /IN/,First Financial Bank,fuzzy,0.866666666666667
+714712,215710,JUNIATA VALLEY FINANCIAL CORP,The Juniata Valley Bank,exact,1
+714756,976552,AMCORE FINANCIAL INC,Core Bank,fuzzy,0.888888888888889
+714980,63069,CITY NATIONAL BANCSHARES Corp,City National Bank,exact,1
+715072,749242,RENASANT CORP,Renasant Bank,exact,1
+715579,5210,ACNB CORP,ACNB Bank,exact,1
+717538,570558,ARROW FINANCIAL CORP,Arrowhead Bank,fuzzy,0.851851851851852
+718413,2376464,COMMUNITY BANCORP /VT,"Community Bank, Coast",fuzzy,0.857096171802054
+719220,936426,S&T BANCORP INC,S&T Bank,exact,1
+719402,100843,FIRST NATIONAL CORP /VA/,First National Banking Company,fuzzy,0.861111111111111
+720002,623445,MAINSOURCE FINANCIAL GROUP,MainSource Bank,exact,1
+721994,687009,LAKELAND FINANCIAL CORP,Lakeland Bank,exact,1
+723188,47256,"COMMUNITY FINANCIAL SYSTEM, INC.",Community Financial Bank,fuzzy,0.91025641025641
+723458,2631172,STATE BANCORP INC,State Bank Financial,exact,1
+723594,2997748,FIRST CENTURY BANKSHARES INC,"First Century Bank, National Association",fuzzy,0.916666666666667
+726517,147633,MERCHANTS BANCSHARES INC,Merchants Bank,exact,1
+737468,58971,WASHINGTON TRUST BANCORP INC,Washington Trust Bank,exact,1
+737875,365174,FIRST KEYSTONE CORP,First Keystone Bank,exact,1
+739421,163473,CITIZENS FINANCIAL SERVICES INC,Citizens Financial Bank,fuzzy,0.888888888888889
+740806,542153,F&M BANK CORP,F&M Bank,exact,1
+740942,2797724,TOWER BANCORP INC,Towne Bank,fuzzy,0.866666666666667
+741516,958727,AMERICAN NATIONAL BANKSHARES INC.,American National Bank and Trust Company,fuzzy,0.902014652014652
+742054,115641,CADENCE FINANCIAL CORP,"Cadence Bank, N.A.",fuzzy,0.861111111111111
+743367,522605,BAR HARBOR BANKSHARES,Bar Harbor Bank & Trust,fuzzy,0.865546218487395
+744126,570651,FIRST CHESTER COUNTY CORP,First Tri County Bank,fuzzy,0.851388888888889
+745456,220545,MONROE BANCORP,Monroe Bank,exact,1
+745981,3208049,MIDSOUTH BANCORP INC,MidSouth Bank,exact,1
+750556,860053,SUNTRUST BANKS INC,"Sunrise Banks, National Association",fuzzy,0.877289377289377
+750558,852713,QNB CORP.,QNB Bank,exact,1
+750577,463735,HANCOCK WHITNEY CORP,Hancock Whitney Bank,exact,1
+750686,466932,CAMDEN NATIONAL CORP,The Camden National Bank,exact,1
+754597,270335,HABERSHAM BANCORP,Habersham Bank,exact,1
+759458,161602,CANANDAIGUA NATIONAL CORP,The Canandaigua National Bank and Trust Company,fuzzy,0.896551724137931
+759944,163473,CITIZENS FINANCIAL GROUP INC/RI,Citizens Financial Bank,fuzzy,0.860215053763441
+763293,742542,FIRST COMMUNITY FINANCIAL CORP,First Community Bank,exact,1
+763901,2736291,"POPULAR, INC.",Popular Bank,exact,1
+763907,578255,FIRST UNITED CORP/MD/,First United Bank,fuzzy,0.857142857142857
+764038,540926,SouthState Bank Corp,South State Bank,fuzzy,0.96969696969697
+764241,23241,INTEGRA BANK CORP,Integra Bank National Association,fuzzy,0.861111111111111
+764402,2719427,"GREEN BANKSHARES, INC.","Green Bank, National Association",fuzzy,0.875
+764811,430344,CommunityOne Bancorp,Community Bank,fuzzy,0.916666666666667
+769207,584920,FIDELITY BANCORP INC,The Fidelity Bank,exact,1
+774569,889652,CORTLAND BANCORP INC,Northland Financial,fuzzy,0.884259259259259
+775215,2689463,"HBT Financial, Inc.","BB&T Financial, FSB",fuzzy,0.926739926739927
+775662,678717,VIST FINANCIAL CORP,VIST Bank,exact,1
+776901,636771,INDEPENDENT BANK CORP,Independent Bank,exact,1
+778972,296456,FIRSTBANK CORP,FirstBank,exact,1
+783739,576130,BANCTRUST FINANCIAL GROUP INC,BankTrust,fuzzy,0.925925925925926
+790359,697231,NBT BANCORP INC,FNBT BANK,fuzzy,0.916666666666667
+792966,271631,FARMERS & MERCHANTS BANCORP INC,Farmers & Merchants Bank,exact,1
+796534,751955,NATIONAL BANKSHARES INC,The National Bank of Harvey,fuzzy,0.877955758962624
+797871,329550,SOUTH FINANCIAL GROUP INC,INSOUTH Bank,fuzzy,0.904761904761905
+801337,829256,WEBSTER FINANCIAL CORP,Western Bank,fuzzy,0.904761904761905
+802681,765019,BRYN MAWR BANK CORP,The Bryn Mawr Trust Company,exact,1
+803016,2907439,CALIFORNIA FIRST LEASING CORP,California First National Bank,fuzzy,0.889126984126984
+804561,436823,CENTRAL VIRGINIA BANKSHARES INC,Central Virginia Bank,fuzzy,0.864197530864198
+805080,375034,WEST SUBURBAN BANCORP INC,West Suburban Bank,exact,1
+805676,489623,PARK NATIONAL CORP /OH/,The Park National Bank,fuzzy,0.855072463768116
+810689,470724,BANK OF GRANITE CORP,Bank of Granite,exact,1
+810958,895710,CITIZENS & NORTHERN CORP,Citizens & Northern Bank,exact,1
+812348,58636,CENTURY BANCORP INC,Century Bank,exact,1
+818677,763677,SECURITY FEDERAL CORP,Security Federal Bank,exact,1
+820907,2764212,PARKVALE FINANCIAL CORP,Parke Bank,fuzzy,0.875
+822083,637451,PLAINSCAPITAL CORP,PlainsCapital Bank,exact,1
+822662,327435,FIDELITY SOUTHERN CORP,United Southern Bank,fuzzy,0.85148315736551
+824410,506922,SANDY SPRING BANCORP INC,Sandy Spring Bank,exact,1
+828530,541307,ADMIRAL FINANCIAL CORP,Admirals Bank,fuzzy,0.958333333333333
+832090,335346,PARTNERS BANCORP,Partners Bank,exact,1
+832847,3130999,COMMUNITY CAPITAL CORP /SC/,Community Capital Bank,fuzzy,0.876543209876543
+834285,1216321,REPUBLIC FIRST BANCORP INC,Republic First Bank,exact,1
+835012,654177,COMMONWEALTH BANKSHARES INC,"Commonwealth Bank, FSB",fuzzy,0.913043478260869
+835324,317342,"Stock Yards Bancorp, Inc.",Stock Yards Bank & Trust Company,fuzzy,0.874269005847953
+836147,177920,MIDDLEFIELD BANC CORP,The Middlefield Banking Company,exact,1
+840264,2339599,CAPITOL BANCORP LTD,Capitol Bank,exact,1
+840889,671576,DORAL FINANCIAL CORP,Doral Bank,exact,1
+842517,74140,ISABELLA BANK CORP,Isabella Bank,exact,1
+842717,233527,"BLUE RIDGE BANKSHARES, INC.","Blue Ridge Bank,  National Association",fuzzy,0.904761904761905
+846901,687009,LAKELAND BANCORP INC,Lakeland Bank,exact,1
+846931,91101,Lake Sunapee Bank Group,"Lake Sunapee Bank, FSB",fuzzy,0.913043478260869
+850606,47256,COMMUNITY FINANCIAL CORP /VA/,Community Financial Bank,fuzzy,0.885057471264368
+854395,188757,FIRST FINANCIAL SERVICE CORP,First Financial Bank,fuzzy,0.884057971014493
+854560,572374,"GREAT SOUTHERN BANCORP, INC.",Great Southern Bank,fuzzy,0.878787878787879
+855574,700672,AMERIANA BANCORP,Ameriana Bank,exact,1
+855874,47256,COMMUNITY FINANCIAL CORP /MD/,Community Financial Bank,fuzzy,0.885057471264368
+856751,365174,FIRST KEYSTONE FINANCIAL INC,First Keystone Bank,exact,1
+857855,2646813,UNITED COMMUNITY BANKS INC,"United Community Bank, National Association",fuzzy,0.984848484848485
+859070,205177,FIRST COMMUNITY BANKSHARES INC /VA/,First Community Bank of America,fuzzy,0.859408602150538
+860413,659855,FIRST INTERSTATE BANCSYSTEM INC,First Interstate Bank,fuzzy,0.864197530864198
+860519,647414,SAVANNAH BANCORP INC,Savannah Bank National Association,fuzzy,0.871794871794872
+865911,641476,CASCADE BANCORP,Cascade Bank,exact,1
+867493,2929075,INDIANA COMMUNITY BANCORP,Indiana Community Bank,exact,1
+870385,2516626,CAROLINA FINANCIAL CORP,Carolina Bank,exact,1
+872821,2214052,WILMINGTON TRUST CORP,Wilmington Trust FSB,exact,1
+872835,918954,ESB FINANCIAL CORP,ESB Financial,exact,1
+875357,339858,BOK FINANCIAL CORP,"BOKF, National Association",fuzzy,0.916666666666667
+879635,786612,MID PENN BANCORP INC,Mid Penn Bank,exact,1
+880116,210238,Southeastern Bank Financial CORP,Southeastern Bank,exact,1
+880641,5582846,EAGLE FINANCIAL SERVICES INC,"Square Financial Services, Inc.",fuzzy,0.889126984126984
+883476,3013823,CRESCENT BANKING CO,Crescent Bank,exact,1
+883948,693224,Atlantic Union Bankshares Corp,Atlantic Union Bank,fuzzy,0.853333333333333
+885275,159636,WILSON BANK HOLDING CO,Wilson Bank and Trust,fuzzy,0.86624895572264
+887919,33259,PREMIER FINANCIAL BANCORP INC,Premier Bank,exact,1
+889936,3487385,"PRIVATEBANCORP, INC","The PrivateBank, N.A.",fuzzy,0.874458874458875
+891098,978154,STERLING BANCSHARES INC,Sterling Bank,exact,1
+894267,276579,COWLITZ BANCORPORATION,"Zions Bancorporation, N.A.",fuzzy,0.85976430976431
+894671,618740,OHIO VALLEY BANC CORP,Ohio Valley Financial Group,exact,1
+898037,311603,DIMECO INC,Dime Bank,fuzzy,0.888888888888889
+910073,146672,"FLAGSTAR BANK, NATIONAL ASSOCIATION","Flagstar Bank, FSB",exact,1
+910322,482772,ASTORIA FINANCIAL CORP,Astoria Bank,exact,1
+912382,2132941,NATIONAL BANK OF INDIANAPOLIS CORP,The National Bank of Indianapolis,exact,1
+914138,679826,MIDDLEBURG FINANCIAL CORP,The Middleburg Bank,exact,1
+914374,561864,SOUTHWEST BANCORP INC,Southwest Bank,exact,1
+916907,2535551,"SOUTHERN MISSOURI BANCORP, INC.",Southern Missouri Bank of Marshfield,fuzzy,0.852962962962963
+920112,3284100,HEARTLAND FINANCIAL USA INC,Maryland Financial Bank,fuzzy,0.861513687600644
+921547,797467,HERITAGE OAKS BANCORP,Heritage Oaks Bank,exact,1
+921847,564605,HUDSON CITY BANCORP INC,Hudson City Savings Bank,fuzzy,0.859649122807018
+923139,959304,FLUSHING FINANCIAL CORP,Flushing Bank,exact,1
+926164,937674,"PROVIDENT COMMUNITY BANCSHARES, INC.","Provident Community Bank, National Association",fuzzy,0.908333333333333
+926865,813572,CECIL BANCORP INC,Cecil Bank,exact,1
+927628,112837,CAPITAL ONE FINANCIAL CORP,"Capital One, National Association",exact,1
+927971,3470097,BANK OF MONTREAL /CAN/,Bank of Montana,fuzzy,0.871717171717172
+928592,5382514,PVF CAPITAL CORP,Gulf Capital Bank,fuzzy,0.856060606060606
+928911,641476,CASCADE FINANCIAL CORP,Cascade Bank,exact,1
+933141,808176,IBERIABANK CORP,Iberiabank,exact,1
+933590,54375,"Your Community Bankshares, Inc.",Your Community Bank,fuzzy,0.853333333333333
+934547,1459034,BANK OF KENTUCKY FINANCIAL CORP,"The Bank of Kentucky, Inc.",exact,1
+934739,646556,WELLS FINANCIAL CORP,Wells Bank,exact,1
+943119,441434,FNBH BANCORP INC,FNB Bank,fuzzy,0.916666666666667
+944725,311377,UNITED WESTERN BANCORP INC,United Western Bank,exact,1
+946090,826255,CAPITAL TRUST HOLDINGS INC.,Capital Bank,exact,1
+946647,33259,PREMIER FINANCIAL CORP,Premier Bank,exact,1
+946673,352772,BANNER CORP,Banner Bank,exact,1
+1003961,105071,PATAPSCO BANCORP INC,The Patapsco Bank,exact,1
+1004702,85472,OCEANFIRST FINANCIAL CORP,OceanFirst Bank,exact,1
+1005188,565536,NORTH CENTRAL BANCSHARES INC,North Central Bank,exact,1
+1005409,924405,DIME COMMUNITY BANCSHARES INC,Dime Community Bank,exact,1
+1005817,433608,TOMPKINS FINANCIAL CORP,Tompkins Trust Company,exact,1
+1006820,3435948,NORTHERN CALIFORNIA BANCORP INC,Northern California National Bank,fuzzy,0.892857142857143
+1007273,246022,BANK OF SOUTH CAROLINA CORP,The Bank of South Carolina,exact,1
+1010470,2745529,PROVIDENT FINANCIAL HOLDINGS INC,Thrivent Financial Bank,fuzzy,0.858248050682261
+1011659,67254,MUFG Americas Holdings Corp,Young Americans Bank,fuzzy,0.85982905982906
+1013554,518354,PARK BANCORP INC,Park Bank,exact,1
+1013796,267737,TIB FINANCIAL CORP.,TIB Bank,exact,1
+1014133,2443535,COMMUNITY CENTRAL BANK CORP,Community Central Bank,exact,1
+1015328,2239288,WINTRUST FINANCIAL CORP,Wintrust Bank,exact,1
+1015593,163549,RIVER VALLEY BANCORP,River Valley Bank,exact,1
+1015780,370271,E TRADE FINANCIAL CORP,E*TRADE Bank,fuzzy,0.904761904761905
+1019650,457547,CENTRUE FINANCIAL CORP,Centrue Bank,exact,1
+1020347,430344,COMMUNITYCORP,Community Bank,fuzzy,0.897435897435897
+1028734,56557,COBIZ FINANCIAL INC,CoBiz Bank,exact,1
+1028918,431172,PACIFIC PREMIER BANCORP INC,Pacific Premier Bank,exact,1
+1028954,403106,SB ONE BANCORP,SB One Bank,exact,1
+1034594,3198421,BAY BANKS OF VIRGINIA INC,Bank of Virginia,fuzzy,0.858134920634921
+1035092,310875,SHORE BANCSHARES INC,Shore Bank,exact,1
+1036070,1009420,StellarOne CORP,StellarOne Bank,exact,1
+1038205,107244,BANK OF THE OZARKS INC,Bank of the Ozarks,exact,1
+1038773,547840,SMARTFINANCIAL INC.,STAR Financial Bank,fuzzy,0.913919413919414
+1041368,757612,RIVERVIEW BANCORP INC,Riverview Bank,exact,1
+1041429,1434826,ANNAPOLIS BANCORP INC,BankAnnapolis,fuzzy,0.86039886039886
+1042729,481542,MERCANTILE BANK CORP,Mercantile Bank,exact,1
+1046050,294779,TIMBERLAND BANCORP INC,Timberland Bank,exact,1
+1046188,729310,PATHFINDER BANCORP INC,PathFinder Bank,exact,1
+1047446,756848,COMMUNITY FIRST BANCORP,Community First Bank,exact,1
+1049782,782306,BROOKLINE BANCORP INC,Brookline  Bank,exact,1
+1050441,976057,EAGLE BANCORP INC,Eagle Bank,exact,1
+1050743,236706,PEAPACK GLADSTONE FINANCIAL CORP,Peapack-Gladstone Bank,exact,1
+1051343,1412712,COMMUNITY WEST BANCSHARES /,"Community West Bank, National Association",fuzzy,0.871345029239766
+1051379,669555,MIDWEST BANC HOLDINGS INC,Midwest Bank National Association,fuzzy,0.944444444444444
+1051473,2730477,WESTERN RESERVE BANCORP INC,Western Reserve Bank,exact,1
+1051741,517900,FIRST NIAGARA FINANCIAL GROUP INC,"First Niagara Bank, National Association",fuzzy,0.907407407407407
+1051871,397175,CITIZENS SOUTH BANKING CORP,Citizens South Bank,exact,1
+1053352,2209553,HERITAGE COMMERCE CORP,Heritage Bank of Commerce,fuzzy,0.873725490196078
+1053584,2634351,MACATAWA BANK CORP,Macatawa Bank,exact,1
+1056943,5582846,PEOPLES FINANCIAL SERVICES CORP.,"Square Financial Services, Inc.",fuzzy,0.850818070818071
+1058690,58971,WASHINGTON BANKING CO,Washington Trust Bank,exact,1
+1059131,253646,NASB FINANCIAL INC,NSB Bank,fuzzy,0.916666666666667
+1060523,2683014,CARDINAL FINANCIAL CORP,Cardinal Bank,exact,1
+1062438,11275,PULASKI FINANCIAL CORP,Pulaski Bank,exact,1
+1065298,358635,SUPERIOR BANCORP,Superior Bank,exact,1
+1068851,664756,PROSPERITY BANCSHARES INC,Prosperity Bank,exact,1
+1069157,197478,EAST WEST BANCORP INC,East West Bank,exact,1
+1070154,978154,STERLING BANCORP,Sterling Bank,exact,1
+1070295,348551,CAPITOL CITY BANCSHARES INC,Capital City Bank,fuzzy,0.944444444444444
+1070296,2742153,FIRST CAPITAL INC,First Capital Bank,exact,1
+1070523,2735324,COMMUNITY SHORES BANK CORP,Community Shores Bank,exact,1
+1070524,207452,GREENE COUNTY BANCORP INC,Grant County Bank,fuzzy,0.867521367521368
+1071236,2743244,RED RIVER BANCSHARES INC,Red River Bank,exact,1
+1071992,826255,CAPITAL BANK CORP,Capital Bank,exact,1
+1072847,2797724,TOWER FINANCIAL CORP,Towne Bank,fuzzy,0.866666666666667
+1073475,716954,CITIZENS FIRST CORP,Citizens First Bank,exact,1
+1074433,968070,CAPITOL FEDERAL FINANCIAL,Capitol Federal Savings Bank,fuzzy,0.884057971014493
+1074902,399517,LCNB CORP,CNB Bank,fuzzy,0.916666666666667
+1077771,143662,UMPQUA HOLDINGS CORP,Umpqua Bank,exact,1
+1081860,983372,ALASKA PACIFIC BANCSHARES INC,Alaska Pacific Bank,exact,1
+1082368,355821,BANK OF FLORIDA CORP,Bank of Floyd,fuzzy,0.907692307692308
+1082564,205177,FIRST COMMUNITY BANK CORP OF AMERICA,First Community Bank of America,fuzzy,0.90531660692951
+1083689,551904,SOUTHCOAST FINANCIAL CORP,South Coastal Bank,fuzzy,0.923076923076923
+1084717,693662,PACIFIC CONTINENTAL CORP,Pacific Continental Bank,exact,1
+1085913,271631,FARMERS & MERCHANTS BANCORP,Farmers & Merchants Bank,exact,1
+1087455,978239,CORNERSTONE BANCORP/SC,"Cornerstone Bank, Inc.",fuzzy,0.873106060606061
+1089787,2887661,BAY NATIONAL CORP,Bay National Bank,exact,1
+1090009,2849801,SOUTHERN FIRST BANCSHARES INC,Southern First Bank,exact,1
+1091491,973364,HCSB FINANCIAL CORP,HCSB,exact,1
+1093728,3367067,PACIFIC FINANCIAL CORP,Pan Pacific Bank,fuzzy,0.878787878787879
+1093897,224637,COASTAL BANKING CO INC,The Coastal Bank,exact,1
+1098146,2236821,PATRIOT NATIONAL BANCORP INC,Patriot National Bank,exact,1
+1098813,2897736,COMMERCEFIRST BANCORP INC,CommerceFirst Bank,exact,1
+1099305,1190074,VIRGINIA COMMERCE BANCORP INC,Virginia Commerce Bank,exact,1
+1099958,722777,SANTANDER BANCORP,"Santander Bank, N.A.",fuzzy,0.880952380952381
+1102112,3303944,PACWEST BANCORP,Pacific West Bank,fuzzy,0.861111111111111
+1102266,1407512,CenterState Bank Corp,"CENTERSTATE BANK, NATIONAL ASSOCIATION",fuzzy,0.895833333333333
+1102287,1457003,PREMIERWEST BANCORP,PremierWest Bank,exact,1
+1106181,5582846,WESTSTAR FINANCIAL SERVICES CORP,"Square Financial Services, Inc.",fuzzy,0.894965110037574
+1107160,139478,HARLEYSVILLE SAVINGS FINANCIAL CORP,Harleysville Savings Bank,exact,1
+1108134,719955,Beacon Financial Corp,Beacon Bank,exact,1
+1108236,735768,AMERICAN RIVER BANKSHARES,American River Bank,fuzzy,0.853333333333333
+1109242,657365,HANMI FINANCIAL CORP,Hanmi Bank,exact,1
+1109525,2434113,BANCORP RHODE ISLAND INC,Bank Rhode Island,fuzzy,0.882475490196078
+1109546,2717012,PACIFIC MERCANTILE BANCORP,Pacific Mercantile Bank,exact,1
+1114927,23755,FIRST NORTHERN COMMUNITY BANCORP,First National Community Bank,fuzzy,0.872222222222222
+1118004,121642,BANCPLUS CORP,BankPlus,fuzzy,0.916666666666667
+1120427,1191446,SONOMA VALLEY BANCORP,Sonoma Valley Bank,exact,1
+1123270,806378,BANK MUTUAL CORP,Bank Mutual,exact,1
+1123735,698144,COMMUNITY FINANCIAL SHARES INC,Community Financial Services Bank,fuzzy,0.912851037851038
+1124676,2997748,FIRST CENTURY BANCORP.,"First Century Bank, National Association",fuzzy,0.917989417989418
+1127160,2516626,CAROLINA BANK HOLDINGS INC,Carolina Bank,exact,1
+1127371,3409462,Community West Bancshares,Community 1st Bank,fuzzy,0.926739926739927
+1128227,745374,"First Federal of Northern Michigan Bancorp, Inc.",First Federal of Northern Michigan,fuzzy,0.936507936507936
+1129920,2640530,MISSION COMMUNITY BANCORP,Mission Community Bank,exact,1
+1132651,132219,AMES NATIONAL CORP,Farmers National Bank,fuzzy,0.9375
+1137547,630340,UNITED SECURITY BANCSHARES,United Security Bank,exact,1
+1141688,535034,LANDMARK BANCORP INC,Landmark Bank,exact,1
+1141807,1412619,1ST CONSTITUTION BANCORP,1st Constitution Bank,exact,1
+1159427,3393806,SOUTHERN COMMUNITY FINANCIAL CORP,Southern Community Bank,exact,1
+1163370,1718188,NORTHRIM BANCORP INC,NORTHRIM BANK,exact,1
+1163389,2736451,NEW PEOPLES BANKSHARES INC,"New Peoples Bank, Inc.",fuzzy,0.909090909090909
+1169424,1158832,PACIFIC STATE BANCORP,Pacific State Bank,exact,1
+1169769,891673,MONARCH COMMUNITY BANCORP INC,Monarch Community Bank,exact,1
+1169770,200378,"BANC OF CALIFORNIA, INC.","Banc of California, N.A.",exact,1
+1170833,3637706,COMMUNITY VALLEY BANCORP,Community Valley Bank,exact,1
+1172097,2737775,JACKSONVILLE BANCORP INC,The Jacksonville Bank,exact,1
+1172102,2839790,FIRST RELIANCE BANCSHARES INC,First Reliance Bank,exact,1
+1172353,2718297,CENTRAL JERSEY BANCORP,"Central Jersey Bank, National Association",fuzzy,0.912280701754386
+1174820,671464,CENTER FINANCIAL CORP,Center Bank,exact,1
+1174872,2602220,MIDCAROLINA FINANCIAL CORP,MidCarolina Bank,exact,1
+1175029,2915461,NORTH STATE BANCORP,North State Bank,exact,1
+1176316,2859903,ACCESS NATIONAL CORP,Access National Bank,exact,1
+1177070,2747420,MOUNTAIN NATIONAL BANCSHARES INC,Mountain National Bank,exact,1
+1178409,3185485,TIDELANDS BANCSHARES INC,Tidelands Bank,exact,1
+1178970,698144,PROVIDENT FINANCIAL SERVICES INC,Community Financial Services Bank,fuzzy,0.866459627329193
+1179500,756848,COMMUNITY FIRST INC,Community First Bank,exact,1
+1181001,814216,ALLIANCE BANKSHARES CORP,"Alliance Bank, National Association",fuzzy,0.894736842105263
+1189396,2751388,SOMERSET HILLS BANCORP,Somerset Hills Bank,exact,1
+1221354,395274,MARCO COMMUNITY BANCORP INC,Carroll Community Bank,fuzzy,0.883239962651727
+1222915,703039,JEFFERSON BANCSHARES INC,The Jefferson Bank,exact,1
+1227500,310754,EQUITY BANCSHARES INC,Equity Bank,exact,1
+1229146,374774,SURREY BANCORP,Surety Bank,fuzzy,0.888888888888889
+1234383,829050,BANK HOLDINGS,"The Bank, National Association",exact,1
+1240581,554473,CLIFTON SAVINGS BANCORP INC,Clifton Savings Bank,exact,1
+1241199,3806100,CAPITALSOURCE INC,CapitalSource Bank,exact,1
+1253317,1401387,OLD LINE BANCSHARES INC,Old Line Bank,exact,1
+1258831,3058329,FREDERICK COUNTY BANCORP INC,Frederick County Bank,exact,1
+1260968,3716852,MARLIN BUSINESS SERVICES CORP,Marlin Business Bank,fuzzy,0.875
+1264755,362007,NEWALLIANCE BANCSHARES INC,NewAlliance Bank,exact,1
+1275101,2787770,BANK OF THE JAMES FINANCIAL GROUP INC,Bank of the James,exact,1
+1275168,2867337,FIVE STAR BANCORP,Five Star Bank,exact,1
+1281761,233031,REGIONS FINANCIAL CORP,Regions Bank,exact,1
+1283582,116871,First Clover Leaf Financial Corp.,"First Clover Leaf Bank, FSB",fuzzy,0.924242424242424
+1285224,382667,WILSHIRE BANCORP INC,Wilshire Bank,exact,1
+1289701,83638,"Mercantile Bancorp, Inc.","MERCANTIL BANK, NATIONAL ASSOCIATION",fuzzy,0.883597883597884
+1290476,2298995,Village Bank & Trust Financial Corp.,Village Bank and Trust,fuzzy,0.913690476190476
+1295401,2858960,"Bancorp, Inc.",The Bancorp Bank,exact,1
+1295664,633378,Kearny Financial Corp.,Kearny Bank,exact,1
+1295879,590855,CommunitySouth Financial CORP,Community South Bank,fuzzy,0.977777777777778
+1299709,656658,"Axos Financial, Inc.",Texas Financial Bank,fuzzy,0.906105006105006
+1302244,481159,Valley Commerce Bancorp,Valley Bank of Commerce,fuzzy,0.861835748792271
+1302709,904201,"Georgetown Bancorp, Inc.",Georgetown Bank,fuzzy,0.851851851851852
+1303531,3109584,"ROYAL FINANCIAL, INC.",Regal Financial Bank,fuzzy,0.911111111111111
+1303942,454676,BankFinancial CORP,"BankFinancial, FSB",exact,1
+1308017,284248,FedFirst Financial CORP,First Bank,fuzzy,0.875
+1310313,669872,"Brooklyn Federal Bancorp, Inc.",Brooklyn Federal Savings Bank,fuzzy,0.861111111111111
+1311131,633501,Rockville Financial Inc.,Rockville Bank,exact,1
+1311828,3112070,"Independence Bancshares, Inc.","Independence Bank, National Association",fuzzy,0.878942881500426
+1312109,1216826,Silvergate Capital Corp,Silvergate Bank,fuzzy,0.851851851851852
+1317019,941176,Colonial Bankshares Inc,"Colonial Bank, FSB",fuzzy,0.894736842105263
+1319327,3603457,Encore Bancshares Inc,Encore  Bank,exact,1
+1320002,114149,Heritage Financial Group,Heritage Bank,exact,1
+1321070,725077,"Ottawa Savings Bancorp, Inc.",Ottawa Savings Bank,fuzzy,0.878787878787879
+1323033,2874634,"Tennessee Commerce Bancorp, Inc.",Tennessee Commerce Bank,fuzzy,0.897435897435897
+1323648,77422,Community Bankers Trust Corp,Community Bankers' Bank,fuzzy,0.981481481481481
+1324410,53239,Guaranty Bancorp,Guaranty Bank,exact,1
+1325670,3325759,Primis Financial Corp.,Primis Bank,exact,1
+1326807,35570,Investors Bancorp Inc,Investors Bank,exact,1
+1327607,34742,First Western Financial Inc,First Western Bank,exact,1
+1329799,3345449,SQUARE 1 FINANCIAL INC,Square 1 Bank,exact,1
+1330365,567679,Greenville Federal Financial CORP,Greenville Federal,exact,1
+1331520,929978,HOME BANCSHARES INC,Home Bank,exact,1
+1341317,3378773,Bridgewater Bancshares Inc,Bridgewater Bank,exact,1
+1343034,335355,TWO RIVER BANCORP,Two Rivers Bank,fuzzy,0.966666666666667
+1344970,638346,United Community Bancorp,United Community Bank,exact,1
+1349593,3383601,FLORIDIAN FINANCIAL GROUP INC,Floridian Bank,exact,1
+1353268,587800,LIBERTY BANCORP INC,Liberty Bank,exact,1
+1353523,3452365,Congaree Bancshares Inc,Congaree State Bank,fuzzy,0.857142857142857
+1354772,823478,NORTHEAST COMMUNITY BANCORP INC,NorthEast Community Bank,exact,1
+1355607,982263,Santa Lucia Bancorp,Santa Lucia Bank,exact,1
+1355823,649070,ROMA FINANCIAL CORP,Roma Bank,exact,1
+1355855,546003,Newport Bancorp Inc,BankNewport,fuzzy,0.878787878787879
+1356628,878898,ViewPoint Financial Group,ViewPoint Bank,exact,1
+1357231,3397233,"Solera National Bancorp, Inc.",Solera National Bank,fuzzy,0.884057971014493
+1358356,522847,"LIMESTONE BANCORP, INC.","Limestone Bank, Inc.",fuzzy,0.897759103641457
+1358697,979375,"Sterling Banks, Inc.","Sterling Bank and Trust, FSB",fuzzy,0.869565217391304
+1359111,30874,Fox Chase Bancorp Inc,Fox Chase Bank,exact,1
+1365794,2925620,Chino Commercial Bancorp,"Chino Commercial Bank, N.A.",fuzzy,0.920634920634921
+1365997,2750699,Bank of the Carolinas CORP,Bank of the Carolinas,exact,1
+1366367,282329,YADKIN FINANCIAL Corp,Yadkin  Bank,exact,1
+1366986,227179,"Skagit State Bancorp, Inc.",Skagit State Bank,fuzzy,0.866666666666667
+1367859,564838,Citizens Community Bancorp Inc.,Citizens Community Bank,exact,1
+1368252,229874,Polonia Bancorp,Polonia Bank,exact,1
+1374756,2376,Oritani Financial Corp.,Oritani Bank,exact,1
+1378020,3608751,Beneficial Mutual Bancorp Inc,beneficial state bank,fuzzy,0.85906862745098
+1378946,613307,"People's United Financial, Inc.",People's United Bank,fuzzy,0.866666666666667
+1380846,3475083,"TriState Capital Holdings, Inc.",Tristate Capital Bank,fuzzy,0.88
+1387632,614751,Manhattan Bancorp,Manhattan Bank,exact,1
+1389772,3355587,FIRST PRIORITY FINANCIAL CORP.,First Priority Bank,exact,1
+1389797,3815595,FSB Community Bankshares Inc,"WPS Community Bank, FSB",fuzzy,0.851851851851852
+1390162,3282852,Howard Bancorp Inc,Howard Bank,exact,1
+1390777,541101,Bank of New York Mellon Corp,The Bank of New York Mellon,exact,1
+1391137,614340,BCSB Bancorp Inc.,CSB Bank,fuzzy,0.916666666666667
+1391933,815277,"QUAINT OAK BANCORP, INC.",Quaint Oak Bank,fuzzy,0.851851851851852
+1392445,815053,Pro Financial Holdings Inc,Goppert Financial Bank,fuzzy,0.883107088989442
+1392922,2897633,"Hometown Bancorp,Inc.","Hometown Bank of Corbin, Inc.",fuzzy,0.866425120772947
+1397771,3362950,"Reliance Bancshares, Inc.","Reliance Bank, FSB",fuzzy,0.851551956815115
+1401434,827971,North Penn Bancorp Inc,North Penn Bank,exact,1
+1401564,768074,"First Financial Northwest, Inc.",First Financial Northwest Bank,exact,1
+1401573,498184,"Beacon Federal Bancorp, Inc.",Beacon Federal,fuzzy,0.878787878787879
+1401700,28013,"Northfield Bancorp, Inc.",Northfield Bank,fuzzy,0.851851851851852
+1403475,1436204,Bank of Marin Bancorp,Bank of Marin,exact,1
+1404296,543570,Atlantic Coast Financial CORP,Atlantic Coast Bank,exact,1
+1404306,3195064,First Advantage Bancorp,First Advantage Bank,exact,1
+1406251,2999845,WESTERN LIBERTY BANCORP,Western Security Bank,fuzzy,0.854594017094017
+1408534,422433,"First Guaranty Bancshares, Inc.",First Guaranty Bank,fuzzy,0.853333333333333
+1410087,220059,"Sound Financial, Inc.","WNB FINANCIAL, N.A.",fuzzy,0.85982905982906
+1410703,750305,"Danvers Bancorp, Inc.",Danversbank,fuzzy,0.858585858585859
+1411974,547251,MERIDIAN INTERSTATE BANCORP INC,American Interstate Bank,fuzzy,0.861197110423117
+1412109,109686,"Simplicity Bancorp, Inc.",Simplicity Bank,fuzzy,0.851851851851852
+1412707,3612525,Level One Bancorp Inc,Level One Bank,exact,1
+1413440,804374,"Home Federal Bancorp, Inc.",Home Federal Bank,fuzzy,0.866666666666667
+1413837,3637685,First Foundation Inc.,First Foundation Bank,exact,1
+1414374,2806626,Paragon Commercial CORP,Paragon Commercial Bank,exact,1
+1415277,350572,"1st United Bancorp, Inc.",1st United Bank,fuzzy,0.851851851851852
+1419536,826255,Capital Bancorp Inc,Capital Bank,exact,1
+1420488,676478,MALVERN FEDERAL BANCORP INC,Malvern Federal Savings Bank,fuzzy,0.884057971014493
+1420525,3247598,"1st Century Bancshares, Inc.","1st Century Bank,  National Association",fuzzy,0.873106060606061
+1420821,664176,WILLIAM PENN BANCORP INC,William Penn Bank,exact,1
+1431567,485456,Oak Valley Bancorp,Kaw Valley Bank,fuzzy,0.896296296296296
+1432405,94139,"Merchants & Marine Bancorp, Inc.",Merchants & Marine Bank,fuzzy,0.897435897435897
+1435161,2775151,AB&T Financial CORP,AB&T,exact,1
+1436425,3577389,"HOME BANCORP, INC.",Homebanc National Association,fuzzy,0.888888888888889
+1437479,955548,ENB Financial Corp,SENB Bank,fuzzy,0.916666666666667
+1437958,224637,COASTAL FINANCIAL CORP,The Coastal Bank,exact,1
+1447051,564977,Territorial Bancorp Inc.,Territorial Savings Bank,fuzzy,0.859649122807018
+1448301,349370,Anchor Bancorp,Anchor Bank,exact,1
+1448324,743857,Cornerstone Financial Corp,Cornerstone Bank,exact,1
+1451432,2506757,"First Sentry Bancshares, Inc.","First Sentry Bank, Inc.",fuzzy,0.878942881500426
+1452899,757612,Riverview Financial Corp,Riverview Bank,exact,1
+1461640,393953,HomeTown Bankshares Corp,"HomeTown Bank, National Association",fuzzy,0.894736842105263
+1461755,3555695,"Atlantic Capital Bancshares, Inc.","Atlantic Capital Bank, National Association",fuzzy,0.897707231040564
+1462694,3317932,"ConnectOne Bancorp, Inc.",ConnectOne Bank,fuzzy,0.851851851851852
+1465969,407645,"Cullman Bancorp, Inc.",Stillman BancCorp N.A.,fuzzy,0.877124183006536
+1466026,773247,"Midland States Bancorp, Inc.",Midland States Bank,fuzzy,0.878787878787879
+1469134,3809446,"First Community Financial Partners, Inc.",First Community Financial Bank,fuzzy,0.911764705882353
+1470795,975984,"OmniAmerican Bancorp, Inc.",OmniAmerican Bank,fuzzy,0.866666666666667
+1471092,104542,Versailles Financial Corp,Marseilles Bank,fuzzy,0.896296296296296
+1475348,497570,Luther Burbank Corp,Luther Burbank Savings,fuzzy,0.878787878787879
+1475841,659341,National Bank Holdings Corp,National Bank,exact,1
+1476034,449515,Metropolitan Bank Holding Corp.,Metropolitan Bank and Trust Company,fuzzy,0.900793650793651
+1476264,3253571,"WashingtonFirst Bankshares, Inc.",WashingtonFirst Bank,fuzzy,0.858974358974359
+1478726,814458,CHARTER FINANCIAL CORP,Charter Bank,exact,1
+1479750,826255,Capital Bank Financial Corp.,Capital Bank,exact,1
+1483195,2376,Oritani Financial Corp,Oritani Bank,exact,1
+1485176,30874,Fox Chase Bancorp Inc,Fox Chase Bank,exact,1
+1485964,991470,"Peoples Federal Bancshares, Inc.",Peoples Federal Savings Bank,fuzzy,0.854598662207358
+1486058,284248,FedFirst Financial Corp,First Bank,fuzzy,0.875
+1492324,2552099,Madison Bancorp Inc,Madison Bank,exact,1
+1492915,811279,Standard AVB Financial Corp.,Standard Bank,fuzzy,0.888888888888889
+1493006,345877,CENTURY NEXT FINANCIAL Corp,Century Next Bank,exact,1
+1493225,28013,"Northfield Bancorp, Inc.",Northfield Bank,fuzzy,0.851851851851852
+1493491,114149,Heritage Financial Group Inc,Heritage Bank,exact,1
+1497275,2631172,STATE BANK FINANCIAL CORP,State Bank Financial,exact,1
+1499453,260868,"Spirit of Texas Bancshares, Inc.","Spirit of Texas Bank, SSB",fuzzy,0.894230769230769
+1501350,667074,Eureka Financial Corp.,Eureka Bank,exact,1
+1504008,3938186,"BankUnited, Inc.",BankUnited,exact,1
+1505823,644440,Franklin Financial Corp,Franklin Bank,exact,1
+1507277,3470985,Park Sterling Corp,Park Sterling Bank,exact,1
+1513971,802679,"STATE INVESTORS BANCORP, INC.",State-Investors Bank,fuzzy,0.884057971014493
+1514131,638346,United Community Bancorp,United Community Bank,exact,1
+1518715,752644,Mechanics Bancorp,Mechanics Bank,exact,1
+1522327,239275,Entegra Financial Corp.,Entegra Bank,exact,1
+1528610,229874,Polonia Bancorp Inc,Polonia Bank,exact,1
+1538263,212577,"HomeTrust Bancshares, Inc.","HomeTrust Bank, National Association",fuzzy,0.85952380952381
+1539638,188757,"Triumph Financial, Inc.",First Financial Bank,fuzzy,0.85148315736551
+1542299,904201,"Georgetown Bancorp, Inc.",Georgetown Bank,fuzzy,0.851851851851852
+1543367,272870,"Meetinghouse Bancorp, Inc.",Meetinghouse Bank,fuzzy,0.866666666666667
+1547635,385471,"Madison County Financial, Inc.",Madison County Bank,fuzzy,0.861111111111111
+1550603,676478,"MALVERN BANCORP, INC.",Malvern Bank N.A.,fuzzy,0.883333333333333
+1551286,815053,"TGR Financial, Inc.",Goppert Financial Bank,fuzzy,0.883107088989442
+1553830,825753,"Citizens Independent Bancorp, Inc.",Citizens Independent Bank,fuzzy,0.904761904761905
+1556727,3224302,First Northwest Bancorp,First Southwest Bank,fuzzy,0.911111111111111
+1562463,659855,First Internet Bancorp,First Interstate Bank,fuzzy,0.888049450549451
+1564618,3112070,"Independent Bank Group, Inc.","Independence Bank, National Association",fuzzy,0.854723707664884
+1572334,2708122,Virginia National Bankshares Corp,Virginia National Bank,fuzzy,0.869047619047619
+1578776,641775,"PRUDENTIAL BANCORP, INC.",Prudential Bank,fuzzy,0.851851851851852
+1586454,3690701,Prime Meridian Holding Co,Prime Meridian Bank,fuzzy,0.878787878787879
+1590799,757612,Riverview Financial Corp,Riverview Bank,exact,1
+1592329,782548,Clifton Bancorp Inc.,Clinton Bank,fuzzy,0.904761904761905
+1594012,2517182,"Investors Bancorp, Inc.",InvestorsBank,fuzzy,0.8763197586727
+1600125,978369,"Meridian Bancorp, Inc.","Meridian Bank, National Association",fuzzy,0.891025641025641
+1601545,28406,"Blue Hills Bancorp, Inc.",Blue Hills Bank,fuzzy,0.851851851851852
+1606363,2719427,"Green Bancorp, Inc.","Green Bank, National Association",fuzzy,0.864102564102564
+1609132,935577,"C1 Financial, Inc.",WCF Financial Bank,fuzzy,0.890637140637141
+1609951,1016231,National Commerce Corp,Mountain Commerce Bank,fuzzy,0.877124183006536
+1613665,131650,"Great Western Bancorp, Inc.",Great Western Bank,fuzzy,0.873015873015873
+1615368,264772,Radius Bancorp Inc.,Radius Bank,exact,1
+1615418,810919,Beneficial Bancorp Inc.,Beneficial Bank,exact,1
+1617242,633378,Kearny Financial Corp.,Kearny Bank,exact,1
+1617291,143073,MB Bancorp Inc,MBL Bank,fuzzy,0.888888888888889
+1624322,3408728,"Business First Bancshares, Inc.",Business First Bank,fuzzy,0.853333333333333
+1629019,147633,Merchants Bancorp,Merchants Bank,exact,1
+1630856,3816510,Professional Holding Corp.,Professional Bank,fuzzy,0.866666666666667
+1635484,66677,Cincinnati Bancorp,Cincinnati Federal,fuzzy,0.851851851851852
+1635626,81175,Equitable Financial Corp.,Equitable Bank,exact,1
+1641601,279842,River Financial Corp,River Bank,exact,1
+1642081,3579589,"Allegiance Bancshares, Inc.",Allegiance Bank Texas,fuzzy,0.853408029878618
+1649739,117458,BayFirst Financial Corp.,BankFirst,fuzzy,0.884259259259259
+1667840,682479,"Best Hometown Bancorp, Inc.",BEST HOMETOWN BANK,fuzzy,0.873015873015873
+1675644,3614976,"FVCBankcorp, Inc.",FVCbank,fuzzy,0.878787878787879
+1680379,852544,"Sterling Bancorp, Inc.",Southern Bancorp Bank,fuzzy,0.875
+1682593,646743,"Community Savings Bancorp, Inc.",Community Savings Bank,fuzzy,0.893333333333333
+1689731,3629420,"Southern States Bancshares, Inc.",Southern States Bank,fuzzy,0.858974358974359
+1691337,188449,PCSB Financial Corp,PCSB Bank,exact,1
+1691507,1440117,"Community First Bancshares, Inc.","Community First Bank, Inc.",fuzzy,0.893589743589743
+1698022,672247,"Farmers & Merchants Bancshares, Inc.",Farmers & Merchants Bank & Trust,fuzzy,0.883760683760684
+1703489,430344,PDL Community Bancorp,Community Bank,fuzzy,0.897435897435897
+1716697,3020193,First Choice Bancorp,First Choice Bank,exact,1
+1723596,1006344,"Columbia Financial, Inc.",Columbia National Bank,fuzzy,0.871895424836601
+1734342,658540,Amerant Bancorp Inc.,American Bank,fuzzy,0.869047619047619
+1746109,594947,Bank First Corp,"Bank First, N.A.",exact,1
+1746129,18854,Bank7 Corp.,Bank 7,fuzzy,0.944444444444444
+1750735,3271799,Meridian Corp,Meridian Bank,exact,1
+1752036,837260,California BanCorp,California Bank & Trust,fuzzy,0.862745098039216
+1769267,119872,First Seacoast Bancorp,First Seacoast Bank,exact,1
+1769725,794475,"Eureka Homestead Bancorp, Inc.",Eureka Homestead,fuzzy,0.888888888888889
+1781730,3630323,"Third Coast Bancshares, Inc.","Third Coast Bank, SSB",fuzzy,0.874242424242424
+1823365,442011,"Generations Bancorp NY, Inc.","Generations Bank, Inc.",fuzzy,0.873106060606061
+1823608,661308,Amalgamated Financial Corp.,Amalgamated Bank,exact,1
+1846017,797775,Blue Foundry Bancorp,Blue Foundry Bank,exact,1
+1849466,528960,"Texas Community Bancshares, Inc.","Texas Community Bank, National Association",fuzzy,0.893589743589743
+831001,476810,Citigroup Inc.,"Citibank, N.A.",manual_verified,1
+72971,451965,Wells Fargo & Company,"Wells Fargo Bank, N.A.",manual_verified,1
+713676,817824,PNC Financial Services Group,"PNC Bank, National Association",manual_verified,1
+947263,497404,The Toronto-Dominion Bank,"TD Bank, N.A.",manual_verified,1
+49196,12311,Huntington Bancshares Inc.,The Huntington National Bank,manual_verified,1
+91576,280110,KeyCorp,KeyBank National Association,manual_verified,1
+36270,501105,M&T Bank Corporation,Manufacturers and Traders Trust Company,manual_verified,1
+1597987,521158,"Live Oak Bancshares, Inc.",Live Oak Banking Company,manual_verified,1
+1633978,129732,"Byline Bancorp, Inc.",Byline Bank,manual_verified,1

@@ -1,0 +1,30 @@
+Bank_Name_Searched,Found_In_Registry,Match_Count,BANK_ID,FFIEC_Name,Edgar_Name,Match_Score
+JPMorgan Chase,TRUE,1,330,"JPMorgan Chase Bank, National Association",JPMORGAN CHASE & CO,0.909
+Bank of America,TRUE,2,76; 441,"First Community Bank of America; Bank of America Oregon, National Association",FIRST COMMUNITY BANKSHARES INC /VA/; BANK OF AMERICA CORP /DE/,0.859; 0.875
+Citigroup,FALSE,0,,,,
+Wells Fargo,FALSE,0,,,,
+Goldman Sachs Bank USA,FALSE,0,,,,
+Capital One,TRUE,1,45,"Capital One, National Association",CAPITAL ONE FINANCIAL CORP,1.000
+U.S. Bank,TRUE,1,331,Truist Bank,TRUIST FINANCIAL CORP,1.000
+PNC Bank,FALSE,0,,,,
+Truist,TRUE,1,331,Truist Bank,TRUIST FINANCIAL CORP,1.000
+Fifth Third Bank,TRUE,1,275,Fifth Third Bank,FIFTH THIRD BANCORP,1.000
+"TD Bank, N.A.",FALSE,0,,,,
+Citizens Bank,FALSE,0,,,,
+Huntington National Bank,FALSE,0,,,,
+KeyBank,FALSE,0,,,,
+M&T Bank,FALSE,0,,,,
+Live Oak Bank,FALSE,0,,,,
+Umpqua Bank,TRUE,1,59,Umpqua Bank,UMPQUA HOLDINGS CORP,1.000
+Eastern Bank,TRUE,1,80,Southeastern Bank,SOUTHEASTERN BANKING CORP,1.000
+First Hawaiian Bank,TRUE,1,367,First Hawaiian Bank,"FIRST HAWAIIAN, INC.",1.000
+Washington Trust Company,FALSE,0,,,,
+Peapack-Gladstone Bank,TRUE,1,95,Peapack-Gladstone Bank,PEAPACK GLADSTONE FINANCIAL CORP,1.000
+Byline Bank,FALSE,0,,,,
+Southside Bank,TRUE,1,136,Southside Bank,SOUTHSIDE BANCSHARES INC,1.000
+Independent Bank (MI),FALSE,0,,,,
+Bank of Marin,TRUE,1,386,Bank of Marin,Bank of Marin Bancorp,1.000
+INTRUST Bank,TRUE,1,395,Wintrust Bank,WINTRUST FINANCIAL CORP,1.000
+Cape Cod 5,FALSE,0,,,,
+Tompkins Community Bank,FALSE,0,,,,
+Park National Bank,TRUE,1,173,The Park National Bank,PARK NATIONAL CORP /OH/,0.855
